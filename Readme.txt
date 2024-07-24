@@ -1,3 +1,6 @@
+Dataset Source: https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
+
+
 Summary of Data Cleaning and Exploratory Data Analysis (EDA)
 
 1. Loading the Dataset
